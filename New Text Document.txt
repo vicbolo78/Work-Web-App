@@ -10,35 +10,35 @@
 
   <Heading>HP Pagewide Meter Readings & Service Call Request Log</Heading>
     <br /><br />
-      <div class="pad10">Location: 10th floor <a href="http://10.155.100.153/hp/device/webAccess/index.htm;jsessionid=x9e76rign1?content=usage" target="_blank">
+      <div class="pad10">Location: 10th floor <a href="http://10.155.100.153/hp/device/webAccess/index.htm;jsessionid=x9e76rign1?content=supplies" target="_blank">
       &#160;&#160;<button type"button">Inventory</button>&#160;&#160;&#160;<a href="mailto:gstilwell@josephmerritt.com?cc=tgibbard@esteban.com&subject=HP Pagewide Service Request&body=Hi Gregory, please place a service request as per details below?%0D%0ALocation: 10th floor%0D%0AType: HP Pagewide%0D%0ASerial No / Designation: HP#1_MY7AD8Q013_4667%0D%0AIssue:%0D%0A" target="_blank"><button type"button">Send Service Request</button></a>
       </a><br />
       Type: HP Pagewide<br /> 
       Serial No / Designation: HP#1_MY7AD8Q013_4667
       </div><br /><br />
 
-        <div class="pad10">Location: 10th floor <a href="http://10.155.100.151/hp/device/webAccess/index.htm;jsessionid=ij5nytlf71?content=usage" target="_blank">
+        <div class="pad10">Location: 10th floor <a href="http://10.155.100.151/hp/device/webAccess/index.htm;jsessionid=ij5nytlf71?content=supplies" target="_blank">
       &#160;&#160;<button type"button">Inventory</button>&#160;&#160;&#160;<a href="mailto:gstilwell@josephmerritt.com?cc=tgibbard@esteban.com&subject=HP Pagewide Service Request&body=Hi Gregory, please place a service request as per details below?%0D%0ALocation: 10th floor%0D%0AType: HP Pagewide%0D%0ASerial No / Designation: HP#2_MY8579Q00N_4822%0D%0AIssue:%0D%0A" target="_blank"><button type"button">Send Service Request</button></a>
       </a><br />
       Type: HP Pagewide<br /> 
       Serial No / Designation: HP#2_MY8579Q00N_4822
       </div><br /><br />
       
-          <div class="pad10">Location: 10th floor <a href="http://10.155.100.152/hp/device/webAccess/index.htm;jsessionid=nm34m8l871?content=usage" target="_blank" target="_blank">
+          <div class="pad10">Location: 10th floor <a href="http://10.155.100.152/hp/device/webAccess/index.htm;jsessionid=nm34m8l871?content=supplies" target="_blank" target="_blank">
       &#160;&#160;<button type"button">Inventory</button>&#160;&#160;&#160;<a href="mailto:gstilwell@josephmerritt.com?cc=tgibbard@esteban.com&subject=HP Pagewide Service Request&body=Hi Gregory, please place a service request as per details below?%0D%0ALocation: 10th floor%0D%0AType: HP Pagewide%0D%0ASerial No / Designation: HP#3_MY6886Q004_4491%0D%0AIssue:%0D%0A" target="_blank"><button type"button">Send Service Request</button></a>
       </a><br />
       Type: HP Pagewide<br /> 
       Serial No / Designation: HP#3_MY6886Q004_4491
       </div><br /><br />
       
-         <div class="pad10">Location: 10th floor Color Dept <a href="http://10.155.100.116/hp/device/webAccess/index.htm?content=usage" target="_blank">
+         <div class="pad10">Location: 10th floor Color Dept <a href="http://10.155.100.116/hp/device/webAccess/index.htm?content=supplies" target="_blank">
       &#160;&#160;<button type"button">Inventory</button>&#160;&#160;&#160;<a href="mailto:gstilwell@josephmerritt.com?cc=tgibbard@esteban.com&subject=HP Pagewide Service Request&body=Hi Gregory, please place a service request as per details below?%0D%0ALocation: 10th floor%0D%0AType: HP Pagewide%0D%0ASerial No / Designation: HP_MY5AS5Q00B_4325%0D%0AIssue:%0D%0A" target="_blank"><button type"button">Send Service Request</button></a>
       </a><br />
       Type: HP Pagewide<br /> 
       Serial No / Designation: HP_MY5AS5Q00B_4325
       </div><br /><br />
      
-       <div class="pad10">Location: 11th floor <a href="http://10.155.100.143/hp/device/webAccess/index.htm;jsessionid=ib3qfmg121?content=usage" target="_blank">
+       <div class="pad10">Location: 11th floor <a href="http://10.155.100.143/hp/device/webAccess/index.htm;jsessionid=ib3qfmg121?content=supplies" target="_blank">
       &#160;&#160;<button type"button">Inventory</button>&#160;&#160;&#160;<a href="mailto:gstilwell@josephmerritt.com?cc=tgibbard@esteban.com&subject=HP Pagewide Service Request&body=Hi Gregory, please place a service request as per details below?%0D%0ALocation: 10th floor%0D%0AType: HP Pagewide%0D%0ASerial No / Designation: HP#1_ MY7AA8Q006_4666%0D%0AIssue:%0D%0A" target="_blank"><button type"button">Send Service Request</button></a>
       </a><br />
       Type: HP Pagewide<br /> 
@@ -46,14 +46,14 @@
       </div><br /><br />
       
 
-          <div class="pad10">Location: 11th floor <a href="http://10.155.100.165/hp/device/webAccess/index.htm?content=usage" target="_blank">
+          <div class="pad10">Location: 11th floor <a href="http://10.155.100.165/hp/device/webAccess/index.htm?content=supplies" target="_blank">
       &#160;&#160;<button type"button">Inventory</button>&#160;&#160;&#160;<a href="mailto:gstilwell@josephmerritt.com?cc=tgibbard@esteban.com&subject=HP Pagewide Service Request&body=Hi Gregory, please place a service request as per details below?%0D%0ALocation: 10th floor%0D%0AType: HP Pagewide%0D%0ASerial No / Designation: HP#2_ MY88E9Q004_4821%0D%0AIssue:%0D%0A" target="_blank"><button type"button">Send Service Request</button></a>
       </a><br />
       Type: HP Pagewide<br /> 
       Serial No / Designation: HP#2_ MY88E9Q004_4821
       </div><br /><br />
       
-         <div class="pad10">Location: 11th floor <a href="http://10.155.100.140/hp/device/webAccess/index.htm;jsessionid=ukphqbgit1?content=usage" target="_blank">
+         <div class="pad10">Location: 11th floor <a href="http://10.155.100.140/hp/device/webAccess/index.htm;jsessionid=ukphqbgit1?content=supplies" target="_blank">
       &#160;&#160;<button type"button">Inventory</button>&#160;&#160;&#160;<a href="mailto:gstilwell@josephmerritt.com?cc=tgibbard@esteban.com&subject=HP Pagewide Service Request&body=Hi Gregory, please place a service request as per details below?%0D%0ALocation: 10th floor%0D%0AType: HP Pagewide%0D%0ASerial No / Designation: HP#3_ MY88D9Q00S_4823%0D%0AIssue:%0D%0A" target="_blank"><button type"button">Send Service Request</button></a>
       </a><br />
       Type: HP Pagewide<br /> 
